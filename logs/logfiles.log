@@ -1,0 +1,95 @@
+2024-05-14 11:02:16 info: Channel Created queue name is cdr
+2024-05-14 11:02:16 info: [ * ] Waiting for messages in cdr To exit press CTRL + C 
+
+2024-05-14 11:02:23 info: Connection established connected with vD_GxGKFF2WlaOzmAAAB at ::ffff:45.118.156.113
+2024-05-14 11:02:23 info: Socket -- handle login function [object Object]
+2024-05-14 11:02:23 info: data-- Handle login function [object Object]
+2024-05-14 11:02:23 error: Session is not valid- Handle login function
+2024-05-14 11:02:23 error: Handle login function - Failed to Verify Session is not valid
+2024-05-14 11:05:01 info: Connection established connected with hrpATRtZXIrB4GecAAAD at ::ffff:45.118.156.113
+2024-05-14 11:05:01 info: Socket -- handle login function [object Object]
+2024-05-14 11:05:01 info: data-- Handle login function [object Object]
+2024-05-14 11:05:01 error: Session is not valid- Handle login function
+2024-05-14 11:05:01 error: Handle login function - Failed to Verify Session is not valid
+2024-05-14 11:05:10 info: Connection established connected with ecSrI4IIq1sA3-69AAAF at ::ffff:45.118.156.113
+2024-05-14 11:05:10 info: Socket -- handle login function [object Object]
+2024-05-14 11:05:10 info: data-- Handle login function [object Object]
+2024-05-14 11:05:10 error: Session is not valid- Handle login function
+2024-05-14 11:05:10 error: Handle login function - Failed to Verify Session is not valid
+2024-05-14 11:08:41 info: Connection established connected with o2d3i_L9tkLnxOleAAAH at ::ffff:45.118.156.113
+2024-05-14 11:09:18 info: Socket -- handle login function [object Object]
+2024-05-14 11:09:18 info: data-- Handle login function [object Object]
+2024-05-14 11:09:18 info: Handle login function -Setted timeout of
+2024-05-14 11:09:18 info: [object Object]
+2024-05-14 11:09:18 info: Sent Leave Event from Timeout- Handle login function
+2024-05-14 11:09:18 info: {"queryType":"INSERT","type":"chat","caseId":2345,"joinTime":1715684959}
+2024-05-14 11:09:18 error: Error in saved database function ER_NO_SUCH_TABLE: Table 'mhealthdb.mh_cdr' doesn't exist
+2024-05-14 11:17:23 info: [ * ] Waiting for messages in cdr To exit press CTRL + C 
+
+2024-05-14 11:17:23 info: Channel Created queue name is cdr
+2024-05-14 11:28:51 info: Connection established connected with hYolemGMaay5aIjDAAAB at ::ffff:45.118.156.113
+2024-05-14 11:28:51 info: Socket -- handle login function [object Object]
+2024-05-14 11:28:51 info: data-- Handle login function [object Object]
+2024-05-14 11:28:51 error: Session is not valid- Handle login function
+2024-05-14 11:28:51 error: Handle login function - Failed to Verify Session is not valid
+2024-05-14 11:30:37 info: [ * ] Waiting for messages in cdr To exit press CTRL + C 
+
+2024-05-14 11:30:37 info: Channel Created queue name is cdr
+2024-05-14 11:30:38 info: Connection established connected with NHCc_1aFwrgOEeujAAAB at ::ffff:45.118.156.113
+2024-05-14 11:30:38 info: Socket -- handle login function [object Object]
+2024-05-14 11:30:38 info: data-- Handle login function [object Object]
+2024-05-14 11:30:38 error: Session is not valid- Handle login function
+2024-05-14 11:30:38 error: Handle login function - Failed to Verify Session is not valid
+2024-05-14 11:30:55 info: Connection established connected with VPlnD2m_zzFTIzIeAAAD at ::ffff:45.118.156.113
+2024-05-14 11:31:13 info: Socket -- handle login function [object Object]
+2024-05-14 11:31:13 info: data-- Handle login function [object Object]
+2024-05-14 11:31:13 info: Handle login function -Setted timeout of
+2024-05-14 11:31:13 info: [object Object]
+2024-05-14 11:31:13 info: Sent Leave Event from Timeout- Handle login function
+2024-05-14 11:31:13 info: {"queryType":"INSERT","type":"chat","caseId":2345,"joinTime":1715686274}
+2024-05-14 11:31:13 error: Error in saved database function ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+2024-05-14 11:51:54 info: Connection established connected with D4M0HVE_aJThZyUjAAAF at ::ffff:45.118.156.113
+2024-05-14 11:51:54 info: Socket -- handle login function [object Object]
+2024-05-14 11:51:54 info: data-- Handle login function [object Object]
+2024-05-14 11:51:54 error: Session is not valid- Handle login function
+2024-05-14 11:51:54 error: Handle login function - Failed to Verify Session is not valid
+2024-05-14 11:52:10 info: Connection established connected with wof7036Jyj0X2lsYAAAH at ::ffff:45.118.156.113
+2024-05-14 11:52:10 info: Socket -- handle login function [object Object]
+2024-05-14 11:52:10 info: data-- Handle login function [object Object]
+2024-05-14 11:52:10 error: Session is not valid- Handle login function
+2024-05-14 11:52:10 error: Handle login function - Failed to Verify Session is not valid
+2024-05-14 11:54:19 info: Connection established connected with dKr2pzLFmS8mYO5lAAAJ at ::ffff:45.118.156.113
+2024-05-14 11:54:19 info: Socket -- handle login function [object Object]
+2024-05-14 11:54:19 info: data-- Handle login function [object Object]
+2024-05-14 11:54:19 error: Session is not valid- Handle login function
+2024-05-14 11:54:19 error: Handle login function - Failed to Verify Session is not valid
+2024-05-15 07:39:29 info: Connection established connected with h-a5wqfboJvHZ51WAAAL at ::ffff:205.254.175.30
+2024-05-15 07:43:53 info: Socket -- handle login function [object Object]
+2024-05-15 07:43:53 info: data-- Handle login function [object Object]
+2024-05-15 07:43:53 error: Session is not valid- Handle login function
+2024-05-15 07:43:53 error: Handle login function - Failed to Verify Session is not valid
+2024-05-15 07:54:27 info: Connection established connected with eXF0AFGPXrV_jo52AAAN at ::ffff:205.254.175.30
+2024-05-15 07:55:18 info: Socket -- handle login function [object Object]
+2024-05-15 07:55:18 info: data-- Handle login function [object Object]
+2024-05-15 07:55:18 error: Session is not valid- Handle login function
+2024-05-15 07:55:18 error: Handle login function - Failed to Verify Session is not valid
+2024-05-15 07:57:23 info: Connection established connected with ByuC16a24Aij28atAAAP at ::ffff:205.254.175.30
+2024-05-15 07:58:15 info: Socket -- handle login function [object Object]
+2024-05-15 07:58:15 info: data-- Handle login function [object Object]
+2024-05-15 07:58:15 error: Session is not valid- Handle login function
+2024-05-15 07:58:15 error: Handle login function - Failed to Verify Session is not valid
+2024-05-15 14:13:28 info: Channel Created queue name is cdr
+2024-05-15 14:13:28 info: [ * ] Waiting for messages in cdr To exit press CTRL + C 
+
+2024-05-29 11:25:26 info: [ * ] Waiting for messages in cdr To exit press CTRL + C 
+
+2024-05-29 11:25:26 info: Channel Created queue name is cdr
+2024-05-29 11:29:21 info: [ * ] Waiting for messages in cdr To exit press CTRL + C 
+
+2024-05-29 11:29:21 info: Channel Created queue name is cdr
+2024-05-29 11:36:59 info: [ * ] Waiting for messages in cdr To exit press CTRL + C 
+
+2024-05-29 11:36:59 info: Channel Created queue name is cdr
+2024-05-30 11:09:16 info: [ * ] Waiting for messages in cdr To exit press CTRL + C 
+
+2024-05-30 11:09:16 info: Channel Created queue name is cdr

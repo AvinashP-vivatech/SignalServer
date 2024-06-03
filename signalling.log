@@ -1,0 +1,106 @@
+Listening on Server 3005
+2024-05-14 11:17:23 info: [ * ] Waiting for messages in cdr To exit press CTRL + C 
+
+Channel created cdr
+2024-05-14 11:17:23 info: Channel Created queue name is cdr
+Connected with hYolemGMaay5aIjDAAAB at ::ffff:45.118.156.113
+2024-05-14 11:28:51 info: Connection established connected with hYolemGMaay5aIjDAAAB at ::ffff:45.118.156.113
+2024-05-14 11:28:51 info: Socket -- handle login function [object Object]
+2024-05-14 11:28:51 info: data-- Handle login function [object Object]
+2024-05-14 11:28:51 error: Session is not valid- Handle login function
+2024-05-14 11:28:51 error: Handle login function - Failed to Verify Session is not valid
+{"level":"error","message":"Forever detected script was killed by signal: SIGKILL"}
+{"level":"error","message":"Script restart attempt #1"}
+Listening on Server 3005
+2024-05-14 11:30:37 info: [ * ] Waiting for messages in cdr To exit press CTRL + C 
+
+Channel created cdr
+2024-05-14 11:30:37 info: Channel Created queue name is cdr
+Connected with NHCc_1aFwrgOEeujAAAB at ::ffff:45.118.156.113
+2024-05-14 11:30:38 info: Connection established connected with NHCc_1aFwrgOEeujAAAB at ::ffff:45.118.156.113
+2024-05-14 11:30:38 info: Socket -- handle login function [object Object]
+2024-05-14 11:30:38 info: data-- Handle login function [object Object]
+2024-05-14 11:30:38 error: Session is not valid- Handle login function
+2024-05-14 11:30:38 error: Handle login function - Failed to Verify Session is not valid
+Connected with VPlnD2m_zzFTIzIeAAAD at ::ffff:45.118.156.113
+2024-05-14 11:30:55 info: Connection established connected with VPlnD2m_zzFTIzIeAAAD at ::ffff:45.118.156.113
+2024-05-14 11:31:13 info: Socket -- handle login function [object Object]
+2024-05-14 11:31:13 info: data-- Handle login function [object Object]
+2024-05-14 11:31:13 info: Handle login function -Setted timeout of
+{
+  queryType: 'INSERT',
+  type: 'chat',
+  from: undefined,
+  to: undefined,
+  caseId: 2345,
+  joinTime: 1715686274
+}  [x] Sent to CDR Queue
+2024-05-14 11:31:13 info: [object Object]
+2024-05-14 11:31:13 info: Sent Leave Event from Timeout- Handle login function
+2024-05-14 11:31:13 info: {"queryType":"INSERT","type":"chat","caseId":2345,"joinTime":1715686274}
+2024-05-14 11:31:13 error: Error in saved database function ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+Connected with D4M0HVE_aJThZyUjAAAF at ::ffff:45.118.156.113
+2024-05-14 11:51:54 info: Connection established connected with D4M0HVE_aJThZyUjAAAF at ::ffff:45.118.156.113
+2024-05-14 11:51:54 info: Socket -- handle login function [object Object]
+2024-05-14 11:51:54 info: data-- Handle login function [object Object]
+2024-05-14 11:51:54 error: Session is not valid- Handle login function
+2024-05-14 11:51:54 error: Handle login function - Failed to Verify Session is not valid
+Connected with wof7036Jyj0X2lsYAAAH at ::ffff:45.118.156.113
+2024-05-14 11:52:10 info: Connection established connected with wof7036Jyj0X2lsYAAAH at ::ffff:45.118.156.113
+2024-05-14 11:52:10 info: Socket -- handle login function [object Object]
+2024-05-14 11:52:10 info: data-- Handle login function [object Object]
+2024-05-14 11:52:10 error: Session is not valid- Handle login function
+2024-05-14 11:52:10 error: Handle login function - Failed to Verify Session is not valid
+Connected with dKr2pzLFmS8mYO5lAAAJ at ::ffff:45.118.156.113
+2024-05-14 11:54:19 info: Connection established connected with dKr2pzLFmS8mYO5lAAAJ at ::ffff:45.118.156.113
+2024-05-14 11:54:19 info: Socket -- handle login function [object Object]
+2024-05-14 11:54:19 info: data-- Handle login function [object Object]
+2024-05-14 11:54:19 error: Session is not valid- Handle login function
+2024-05-14 11:54:19 error: Handle login function - Failed to Verify Session is not valid
+Connected with h-a5wqfboJvHZ51WAAAL at ::ffff:205.254.175.30
+2024-05-15 07:39:29 info: Connection established connected with h-a5wqfboJvHZ51WAAAL at ::ffff:205.254.175.30
+2024-05-15 07:43:53 info: Socket -- handle login function [object Object]
+2024-05-15 07:43:53 info: data-- Handle login function [object Object]
+2024-05-15 07:43:53 error: Session is not valid- Handle login function
+2024-05-15 07:43:53 error: Handle login function - Failed to Verify Session is not valid
+Connected with eXF0AFGPXrV_jo52AAAN at ::ffff:205.254.175.30
+2024-05-15 07:54:27 info: Connection established connected with eXF0AFGPXrV_jo52AAAN at ::ffff:205.254.175.30
+2024-05-15 07:55:18 info: Socket -- handle login function [object Object]
+2024-05-15 07:55:18 info: data-- Handle login function [object Object]
+2024-05-15 07:55:18 error: Session is not valid- Handle login function
+2024-05-15 07:55:18 error: Handle login function - Failed to Verify Session is not valid
+Connected with ByuC16a24Aij28atAAAP at ::ffff:205.254.175.30
+2024-05-15 07:57:23 info: Connection established connected with ByuC16a24Aij28atAAAP at ::ffff:205.254.175.30
+2024-05-15 07:58:15 info: Socket -- handle login function [object Object]
+2024-05-15 07:58:15 info: data-- Handle login function [object Object]
+2024-05-15 07:58:15 error: Session is not valid- Handle login function
+2024-05-15 07:58:15 error: Handle login function - Failed to Verify Session is not valid
+{"level":"error","message":"Forever detected script was killed by signal: SIGKILL"}
+{"level":"error","message":"Script restart attempt #2"}
+Listening on Server 3005
+Channel created cdr
+2024-05-15 14:13:28 info: Channel Created queue name is cdr
+2024-05-15 14:13:28 info: [ * ] Waiting for messages in cdr To exit press CTRL + C 
+
+{"level":"error","message":"Forever detected script was killed by signal: SIGKILL"}
+Listening on Server 3005
+2024-05-29 11:29:21 info: [ * ] Waiting for messages in cdr To exit press CTRL + C 
+
+Channel created cdr
+2024-05-29 11:29:21 info: Channel Created queue name is cdr
+{"level":"error","message":"Forever detected script was killed by signal: SIGKILL"}
+Listening on Server 3005
+2024-05-29 11:36:59 info: [ * ] Waiting for messages in cdr To exit press CTRL + C 
+
+Channel created cdr
+2024-05-29 11:36:59 info: Channel Created queue name is cdr
+Error: ENOENT: no such file or directory, stat '/test.html'
+Error: ENOENT: no such file or directory, stat '/test.html'
+Error: ENOENT: no such file or directory, stat '/test.html'
+{"level":"error","message":"Forever detected script was killed by signal: SIGKILL"}
+Listening on Server 3005
+2024-05-30 11:09:16 info: [ * ] Waiting for messages in cdr To exit press CTRL + C 
+
+Channel created cdr
+2024-05-30 11:09:16 info: Channel Created queue name is cdr
+{"level":"error","message":"Forever detected script was killed by signal: SIGKILL"}

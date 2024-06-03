@@ -1,0 +1,9 @@
+const DB_SETTINGS = {
+  host: "149.28.148.198",
+  user: "root",
+  password: "Root@123",
+  database: "mhealthdb",
+  port: "3306"
+}
+
+module.exports = DB_SETTINGS;
